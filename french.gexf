@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-04">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="jour" label="jour" />
+      <node id="an" label="an" />
+      <node id="enfant" label="enfant" />
+      <node id="temps" label="temps" />
+      <node id="heure" label="heure" />
+      <node id="femme" label="femme" />
+      <node id="homme" label="homme" />
+      <node id="soir" label="soir" />
+      <node id="maison" label="maison" />
+      <node id="année" label="année" />
+      <node id="école" label="école" />
+      <node id="mère" label="mère" />
+      <node id="eau" label="eau" />
+      <node id="travail" label="travail" />
+      <node id="nuit" label="nuit" />
+      <node id="paris" label="paris" />
+      <node id="société" label="société" />
+      <node id="partie" label="partie" />
+      <node id="main" label="main" />
+      <node id="vacance" label="vacance" />
+      <node id="monsieur" label="monsieur" />
+      <node id="fois" label="fois" />
+      <node id="monde" label="monde" />
+      <node id="histoire" label="histoire" />
+      <node id="vie" label="vie" />
+      <node id="france" label="france" />
+      <node id="français" label="français" />
+      <node id="point" label="point" />
+      <node id="famille" label="famille" />
+      <node id="beau" label="beau" />
+      <node id="entreprise" label="entreprise" />
+      <node id="transport" label="transport" />
+      <node id="fête" label="fête" />
+      <node id="langue" label="langue" />
+      <node id="moment" label="moment" />
+      <node id="père" label="père" />
+      <node id="étude" label="étude" />
+      <node id="exemple" label="exemple" />
+      <node id="pays" label="pays" />
+      <node id="cas" label="cas" />
+      <node id="ami" label="ami" />
+      <node id="fin" label="fin" />
+      <node id="siècle" label="siècle" />
+      <node id="journée" label="journée" />
+      <node id="esprit" label="esprit" />
+      <node id="semaine" label="semaine" />
+      <node id="donnée" label="donnée" />
+      <node id="chien" label="chien" />
+      <node id="question" label="question" />
+      <node id="place" label="place" />
+    </nodes>
+    <edges>
+      <edge source="jour" target="an" id="0" weight="1.0" />
+      <edge source="jour" target="enfant" id="1" weight="1.0" />
+      <edge source="jour" target="temps" id="2" weight="3.0" />
+      <edge source="jour" target="heure" id="3" weight="3.0" />
+      <edge source="jour" target="femme" id="4" weight="2.0" />
+      <edge source="jour" target="homme" id="5" weight="1.0" />
+      <edge source="jour" target="soir" id="6" weight="4.0" />
+      <edge source="jour" target="maison" id="7" weight="1.0" />
+      <edge source="jour" target="année" id="8" weight="1.0" />
+      <edge source="jour" target="école" id="9" weight="2.0" />
+      <edge source="jour" target="mère" id="10" weight="1.0" />
+      <edge source="jour" target="eau" id="11" weight="1.0" />
+      <edge source="jour" target="travail" id="12" weight="1.0" />
+      <edge source="jour" target="nuit" id="13" weight="1.0" />
+      <edge source="jour" target="paris" id="14" weight="1.0" />
+      <edge source="jour" target="société" id="15" weight="1.0" />
+      <edge source="jour" target="partie" id="16" weight="1.0" />
+      <edge source="jour" target="main" id="17" weight="2.0" />
+      <edge source="jour" target="vacance" id="18" weight="1.0" />
+      <edge source="jour" target="monsieur" id="19" weight="2.0" />
+      <edge source="an" target="enfant" id="20" weight="4.0" />
+      <edge source="an" target="femme" id="21" weight="2.0" />
+      <edge source="an" target="fois" id="22" weight="1.0" />
+      <edge source="an" target="homme" id="23" weight="2.0" />
+      <edge source="an" target="monde" id="24" weight="2.0" />
+      <edge source="an" target="maison" id="25" weight="2.0" />
+      <edge source="an" target="année" id="26" weight="1.0" />
+      <edge source="an" target="histoire" id="27" weight="2.0" />
+      <edge source="an" target="vie" id="28" weight="1.0" />
+      <edge source="an" target="france" id="29" weight="3.0" />
+      <edge source="an" target="mère" id="30" weight="1.0" />
+      <edge source="an" target="travail" id="31" weight="1.0" />
+      <edge source="an" target="français" id="32" weight="1.0" />
+      <edge source="an" target="nuit" id="33" weight="1.0" />
+      <edge source="an" target="paris" id="34" weight="1.0" />
+      <edge source="an" target="société" id="35" weight="1.0" />
+      <edge source="an" target="point" id="36" weight="2.0" />
+      <edge source="an" target="famille" id="37" weight="1.0" />
+      <edge source="an" target="beau" id="38" weight="1.0" />
+      <edge source="an" target="entreprise" id="39" weight="2.0" />
+      <edge source="an" target="transport" id="40" weight="1.0" />
+      <edge source="an" target="vacance" id="41" weight="1.0" />
+      <edge source="enfant" target="heure" id="42" weight="4.0" />
+      <edge source="enfant" target="femme" id="43" weight="3.0" />
+      <edge source="enfant" target="fois" id="44" weight="1.0" />
+      <edge source="enfant" target="homme" id="45" weight="1.0" />
+      <edge source="enfant" target="maison" id="46" weight="1.0" />
+      <edge source="enfant" target="année" id="47" weight="4.0" />
+      <edge source="enfant" target="histoire" id="48" weight="1.0" />
+      <edge source="enfant" target="école" id="49" weight="1.0" />
+      <edge source="enfant" target="mère" id="50" weight="2.0" />
+      <edge source="enfant" target="eau" id="51" weight="1.0" />
+      <edge source="enfant" target="fête" id="52" weight="1.0" />
+      <edge source="enfant" target="travail" id="53" weight="1.0" />
+      <edge source="enfant" target="français" id="54" weight="2.0" />
+      <edge source="enfant" target="nuit" id="55" weight="1.0" />
+      <edge source="enfant" target="langue" id="56" weight="1.0" />
+      <edge source="enfant" target="moment" id="57" weight="1.0" />
+      <edge source="enfant" target="père" id="58" weight="2.0" />
+      <edge source="enfant" target="beau" id="59" weight="1.0" />
+      <edge source="enfant" target="étude" id="60" weight="1.0" />
+      <edge source="enfant" target="exemple" id="61" weight="2.0" />
+      <edge source="temps" target="heure" id="62" weight="1.0" />
+      <edge source="temps" target="fois" id="63" weight="2.0" />
+      <edge source="temps" target="homme" id="64" weight="2.0" />
+      <edge source="temps" target="maison" id="65" weight="3.0" />
+      <edge source="temps" target="année" id="66" weight="1.0" />
+      <edge source="temps" target="histoire" id="67" weight="4.0" />
+      <edge source="temps" target="vie" id="68" weight="2.0" />
+      <edge source="temps" target="pays" id="69" weight="2.0" />
+      <edge source="temps" target="fête" id="70" weight="1.0" />
+      <edge source="temps" target="moment" id="71" weight="1.0" />
+      <edge source="temps" target="père" id="72" weight="2.0" />
+      <edge source="temps" target="cas" id="73" weight="2.0" />
+      <edge source="temps" target="étude" id="74" weight="1.0" />
+      <edge source="temps" target="ami" id="75" weight="1.0" />
+      <edge source="temps" target="fin" id="76" weight="1.0" />
+      <edge source="temps" target="siècle" id="77" weight="2.0" />
+      <edge source="temps" target="journée" id="78" weight="1.0" />
+      <edge source="temps" target="main" id="79" weight="3.0" />
+      <edge source="temps" target="esprit" id="80" weight="1.0" />
+      <edge source="heure" target="monde" id="81" weight="2.0" />
+      <edge source="heure" target="soir" id="82" weight="1.0" />
+      <edge source="heure" target="vie" id="83" weight="1.0" />
+      <edge source="heure" target="école" id="84" weight="2.0" />
+      <edge source="heure" target="france" id="85" weight="1.0" />
+      <edge source="heure" target="fête" id="86" weight="1.0" />
+      <edge source="heure" target="nuit" id="87" weight="1.0" />
+      <edge source="heure" target="langue" id="88" weight="1.0" />
+      <edge source="heure" target="moment" id="89" weight="1.0" />
+      <edge source="heure" target="semaine" id="90" weight="2.0" />
+      <edge source="heure" target="paris" id="91" weight="2.0" />
+      <edge source="heure" target="étude" id="92" weight="1.0" />
+      <edge source="heure" target="journée" id="93" weight="2.0" />
+      <edge source="heure" target="donnée" id="94" weight="1.0" />
+      <edge source="heure" target="chien" id="95" weight="1.0" />
+      <edge source="femme" target="fois" id="96" weight="1.0" />
+      <edge source="femme" target="homme" id="97" weight="7.0" />
+      <edge source="femme" target="maison" id="98" weight="1.0" />
+      <edge source="femme" target="année" id="99" weight="1.0" />
+      <edge source="femme" target="vie" id="100" weight="1.0" />
+      <edge source="femme" target="mère" id="101" weight="1.0" />
+      <edge source="femme" target="travail" id="102" weight="4.0" />
+      <edge source="femme" target="français" id="103" weight="1.0" />
+      <edge source="femme" target="moment" id="104" weight="3.0" />
+      <edge source="femme" target="semaine" id="105" weight="1.0" />
+      <edge source="femme" target="famille" id="106" weight="3.0" />
+      <edge source="femme" target="beau" id="107" weight="2.0" />
+      <edge source="femme" target="étude" id="108" weight="1.0" />
+      <edge source="femme" target="partie" id="109" weight="3.0" />
+      <edge source="femme" target="siècle" id="110" weight="3.0" />
+      <edge source="femme" target="exemple" id="111" weight="1.0" />
+      <edge source="femme" target="monsieur" id="112" weight="1.0" />
+      <edge source="homme" target="fois" id="113" weight="1.0" />
+      <edge source="homme" target="maison" id="114" weight="1.0" />
+      <edge source="homme" target="année" id="115" weight="1.0" />
+      <edge source="homme" target="vie" id="116" weight="2.0" />
+      <edge source="homme" target="travail" id="117" weight="4.0" />
+      <edge source="homme" target="moment" id="118" weight="1.0" />
+      <edge source="homme" target="point" id="119" weight="1.0" />
+      <edge source="homme" target="famille" id="120" weight="1.0" />
+      <edge source="homme" target="beau" id="121" weight="1.0" />
+      <edge source="homme" target="étude" id="122" weight="1.0" />
+      <edge source="homme" target="partie" id="123" weight="2.0" />
+      <edge source="homme" target="siècle" id="124" weight="1.0" />
+      <edge source="homme" target="place" id="125" weight="3.0" />
+      <edge source="homme" target="exemple" id="126" weight="1.0" />
+      <edge source="soir" target="maison" id="127" weight="1.0" />
+      <edge source="soir" target="histoire" id="128" weight="1.0" />
+      <edge source="soir" target="vie" id="129" weight="1.0" />
+      <edge source="soir" target="école" id="130" weight="1.0" />
+      <edge source="soir" target="mère" id="131" weight="1.0" />
+      <edge source="soir" target="fête" id="132" weight="1.0" />
+      <edge source="soir" target="moment" id="133" weight="1.0" />
+      <edge source="soir" target="ami" id="134" weight="1.0" />
+      <edge source="soir" target="journée" id="135" weight="1.0" />
+      <edge source="soir" target="chien" id="136" weight="1.0" />
+      <edge source="maison" target="fois" id="137" weight="1.0" />
+      <edge source="maison" target="année" id="138" weight="1.0" />
+      <edge source="maison" target="école" id="139" weight="1.0" />
+      <edge source="maison" target="mère" id="140" weight="2.0" />
+      <edge source="maison" target="eau" id="141" weight="1.0" />
+      <edge source="maison" target="travail" id="142" weight="1.0" />
+      <edge source="année" target="france" id="143" weight="2.0" />
+      <edge source="année" target="mère" id="144" weight="1.0" />
+      <edge source="année" target="fête" id="145" weight="1.0" />
+      <edge source="année" target="travail" id="146" weight="1.0" />
+      <edge source="année" target="français" id="147" weight="1.0" />
+      <edge source="année" target="père" id="148" weight="1.0" />
+      <edge source="année" target="semaine" id="149" weight="1.0" />
+      <edge source="année" target="société" id="150" weight="1.0" />
+      <edge source="année" target="famille" id="151" weight="1.0" />
+      <edge source="année" target="étude" id="152" weight="1.0" />
+      <edge source="année" target="ami" id="153" weight="1.0" />
+      <edge source="année" target="partie" id="154" weight="1.0" />
+      <edge source="année" target="fin" id="155" weight="2.0" />
+      <edge source="année" target="question" id="156" weight="1.0" />
+      <edge source="année" target="place" id="157" weight="2.0" />
+      <edge source="école" target="monde" id="158" weight="3.0" />
+      <edge source="école" target="histoire" id="159" weight="2.0" />
+      <edge source="école" target="vie" id="160" weight="1.0" />
+      <edge source="école" target="france" id="161" weight="1.0" />
+      <edge source="école" target="travail" id="162" weight="1.0" />
+      <edge source="école" target="français" id="163" weight="2.0" />
+      <edge source="école" target="langue" id="164" weight="2.0" />
+      <edge source="école" target="siècle" id="165" weight="1.0" />
+      <edge source="école" target="journée" id="166" weight="1.0" />
+      <edge source="école" target="monsieur" id="167" weight="2.0" />
+      <edge source="école" target="chien" id="168" weight="1.0" />
+      <edge source="mère" target="pays" id="169" weight="1.0" />
+      <edge source="mère" target="france" id="170" weight="1.0" />
+      <edge source="mère" target="fête" id="171" weight="4.0" />
+      <edge source="mère" target="nuit" id="172" weight="1.0" />
+      <edge source="mère" target="père" id="173" weight="3.0" />
+      <edge source="mère" target="famille" id="174" weight="1.0" />
+      <edge source="mère" target="étude" id="175" weight="1.0" />
+      <edge source="mère" target="fin" id="176" weight="1.0" />
+      <edge source="mère" target="main" id="177" weight="4.0" />
+      <edge source="mère" target="chien" id="178" weight="1.0" />
+      <edge source="eau" target="vie" id="179" weight="1.0" />
+      <edge source="eau" target="france" id="180" weight="1.0" />
+      <edge source="eau" target="fête" id="181" weight="1.0" />
+      <edge source="eau" target="beau" id="182" weight="1.0" />
+      <edge source="eau" target="cas" id="183" weight="1.0" />
+      <edge source="travail" target="vie" id="184" weight="1.0" />
+      <edge source="travail" target="pays" id="185" weight="1.0" />
+      <edge source="travail" target="moment" id="186" weight="1.0" />
+      <edge source="travail" target="père" id="187" weight="1.0" />
+      <edge source="travail" target="famille" id="188" weight="1.0" />
+      <edge source="travail" target="étude" id="189" weight="1.0" />
+      <edge source="travail" target="partie" id="190" weight="1.0" />
+      <edge source="travail" target="siècle" id="191" weight="1.0" />
+      <edge source="travail" target="transport" id="192" weight="1.0" />
+      <edge source="travail" target="place" id="193" weight="1.0" />
+      <edge source="travail" target="donnée" id="194" weight="1.0" />
+      <edge source="nuit" target="fête" id="195" weight="1.0" />
+      <edge source="nuit" target="paris" id="196" weight="1.0" />
+      <edge source="nuit" target="beau" id="197" weight="1.0" />
+      <edge source="nuit" target="journée" id="198" weight="1.0" />
+      <edge source="paris" target="monde" id="199" weight="2.0" />
+      <edge source="paris" target="france" id="200" weight="2.0" />
+      <edge source="paris" target="fête" id="201" weight="1.0" />
+      <edge source="paris" target="père" id="202" weight="1.0" />
+      <edge source="paris" target="société" id="203" weight="1.0" />
+      <edge source="paris" target="étude" id="204" weight="1.0" />
+      <edge source="paris" target="journée" id="205" weight="1.0" />
+      <edge source="paris" target="donnée" id="206" weight="1.0" />
+      <edge source="société" target="france" id="207" weight="1.0" />
+      <edge source="société" target="langue" id="208" weight="1.0" />
+      <edge source="société" target="place" id="209" weight="1.0" />
+      <edge source="partie" target="monde" id="210" weight="2.0" />
+      <edge source="partie" target="vie" id="211" weight="1.0" />
+      <edge source="partie" target="moment" id="212" weight="1.0" />
+      <edge source="partie" target="semaine" id="213" weight="1.0" />
+      <edge source="partie" target="point" id="214" weight="1.0" />
+      <edge source="partie" target="famille" id="215" weight="1.0" />
+      <edge source="partie" target="fin" id="216" weight="1.0" />
+      <edge source="partie" target="siècle" id="217" weight="1.0" />
+      <edge source="partie" target="place" id="218" weight="1.0" />
+      <edge source="partie" target="donnée" id="219" weight="1.0" />
+      <edge source="main" target="pays" id="220" weight="1.0" />
+      <edge source="main" target="siècle" id="221" weight="2.0" />
+      <edge source="vacance" target="france" id="222" weight="1.0" />
+      <edge source="vacance" target="semaine" id="223" weight="1.0" />
+      <edge source="vacance" target="place" id="224" weight="1.0" />
+      <edge source="monsieur" target="beau" id="225" weight="2.0" />
+      <edge source="fois" target="histoire" id="226" weight="1.0" />
+      <edge source="fois" target="vie" id="227" weight="1.0" />
+      <edge source="fois" target="pays" id="228" weight="1.0" />
+      <edge source="fois" target="père" id="229" weight="2.0" />
+      <edge source="fois" target="semaine" id="230" weight="2.0" />
+      <edge source="fois" target="point" id="231" weight="1.0" />
+      <edge source="fois" target="cas" id="232" weight="1.0" />
+      <edge source="fois" target="ami" id="233" weight="1.0" />
+      <edge source="fois" target="question" id="234" weight="2.0" />
+      <edge source="fois" target="journée" id="235" weight="1.0" />
+      <edge source="fois" target="esprit" id="236" weight="2.0" />
+      <edge source="monde" target="histoire" id="237" weight="3.0" />
+      <edge source="monde" target="langue" id="238" weight="1.0" />
+      <edge source="monde" target="siècle" id="239" weight="2.0" />
+      <edge source="monde" target="transport" id="240" weight="1.0" />
+      <edge source="monde" target="place" id="241" weight="1.0" />
+      <edge source="histoire" target="vie" id="242" weight="1.0" />
+      <edge source="histoire" target="point" id="243" weight="1.0" />
+      <edge source="histoire" target="fin" id="244" weight="1.0" />
+      <edge source="histoire" target="siècle" id="245" weight="2.0" />
+      <edge source="vie" target="français" id="246" weight="1.0" />
+      <edge source="vie" target="moment" id="247" weight="1.0" />
+      <edge source="vie" target="père" id="248" weight="1.0" />
+      <edge source="vie" target="point" id="249" weight="1.0" />
+      <edge source="vie" target="beau" id="250" weight="1.0" />
+      <edge source="vie" target="entreprise" id="251" weight="1.0" />
+      <edge source="vie" target="cas" id="252" weight="1.0" />
+      <edge source="vie" target="étude" id="253" weight="1.0" />
+      <edge source="vie" target="fin" id="254" weight="1.0" />
+      <edge source="vie" target="question" id="255" weight="2.0" />
+      <edge source="vie" target="exemple" id="256" weight="1.0" />
+      <edge source="france" target="pays" id="257" weight="1.0" />
+      <edge source="france" target="fête" id="258" weight="1.0" />
+      <edge source="france" target="langue" id="259" weight="2.0" />
+      <edge source="france" target="famille" id="260" weight="2.0" />
+      <edge source="france" target="beau" id="261" weight="1.0" />
+      <edge source="france" target="étude" id="262" weight="1.0" />
+      <edge source="france" target="question" id="263" weight="1.0" />
+      <edge source="france" target="donnée" id="264" weight="1.0" />
+      <edge source="france" target="chien" id="265" weight="1.0" />
+      <edge source="français" target="pays" id="266" weight="1.0" />
+      <edge source="français" target="langue" id="267" weight="1.0" />
+      <edge source="français" target="siècle" id="268" weight="1.0" />
+      <edge source="point" target="père" id="269" weight="1.0" />
+      <edge source="point" target="beau" id="270" weight="1.0" />
+      <edge source="point" target="question" id="271" weight="1.0" />
+      <edge source="point" target="donnée" id="272" weight="1.0" />
+      <edge source="famille" target="pays" id="273" weight="1.0" />
+      <edge source="famille" target="fête" id="274" weight="1.0" />
+      <edge source="famille" target="moment" id="275" weight="1.0" />
+      <edge source="famille" target="père" id="276" weight="1.0" />
+      <edge source="famille" target="semaine" id="277" weight="1.0" />
+      <edge source="famille" target="cas" id="278" weight="1.0" />
+      <edge source="famille" target="ami" id="279" weight="3.0" />
+      <edge source="famille" target="siècle" id="280" weight="1.0" />
+      <edge source="beau" target="père" id="281" weight="1.0" />
+      <edge source="beau" target="exemple" id="282" weight="1.0" />
+      <edge source="entreprise" target="moment" id="283" weight="1.0" />
+      <edge source="entreprise" target="fin" id="284" weight="1.0" />
+      <edge source="entreprise" target="transport" id="285" weight="9.0" />
+      <edge source="entreprise" target="donnée" id="286" weight="1.0" />
+      <edge source="entreprise" target="exemple" id="287" weight="2.0" />
+      <edge source="transport" target="pays" id="288" weight="1.0" />
+      <edge source="transport" target="exemple" id="289" weight="4.0" />
+      <edge source="fête" target="pays" id="290" weight="1.0" />
+      <edge source="fête" target="ami" id="291" weight="1.0" />
+      <edge source="fête" target="fin" id="292" weight="1.0" />
+      <edge source="fête" target="siècle" id="293" weight="1.0" />
+      <edge source="fête" target="journée" id="294" weight="1.0" />
+      <edge source="langue" target="siècle" id="295" weight="1.0" />
+      <edge source="moment" target="cas" id="296" weight="1.0" />
+      <edge source="moment" target="fin" id="297" weight="1.0" />
+      <edge source="moment" target="siècle" id="298" weight="1.0" />
+      <edge source="moment" target="esprit" id="299" weight="1.0" />
+      <edge source="père" target="pays" id="300" weight="2.0" />
+      <edge source="père" target="étude" id="301" weight="2.0" />
+      <edge source="père" target="ami" id="302" weight="2.0" />
+      <edge source="père" target="journée" id="303" weight="2.0" />
+      <edge source="père" target="exemple" id="304" weight="1.0" />
+      <edge source="étude" target="pays" id="305" weight="2.0" />
+      <edge source="étude" target="cas" id="306" weight="1.0" />
+      <edge source="étude" target="donnée" id="307" weight="1.0" />
+      <edge source="exemple" target="cas" id="308" weight="2.0" />
+      <edge source="pays" target="ami" id="309" weight="1.0" />
+      <edge source="pays" target="fin" id="310" weight="1.0" />
+      <edge source="pays" target="siècle" id="311" weight="1.0" />
+      <edge source="pays" target="journée" id="312" weight="1.0" />
+      <edge source="cas" target="donnée" id="313" weight="1.0" />
+      <edge source="cas" target="esprit" id="314" weight="1.0" />
+      <edge source="ami" target="journée" id="315" weight="1.0" />
+      <edge source="fin" target="semaine" id="316" weight="2.0" />
+      <edge source="fin" target="siècle" id="317" weight="1.0" />
+      <edge source="fin" target="esprit" id="318" weight="1.0" />
+      <edge source="siècle" target="esprit" id="319" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
